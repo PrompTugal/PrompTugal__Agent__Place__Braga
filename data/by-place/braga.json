@@ -640,7 +640,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.braga@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -648,75 +648,174 @@
    "url": "https://bragatv.pt/braga-fabio-oliveira-abandona-juniores-do-arsenal-de-crespos-e-aponta-aos-seniores/",
    "source": "Braga TV",
    "date": "2026-11-25",
-   "read_at": "2026-11-26T02:29:54Z",
+   "read_at": "2026-11-26T11:13:09Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Medvedev ataca Boris Johnson depois de apelo ao envio de tropas ocidentais para a Ucrânia",
-    "url": "https://pressnet.pt/2026/11/26/medvedev-ataca-boris-johnson-depois-de-apelo-ao-envio-de-tropas-ocidentais-para-a-ucrania/",
-    "published": "2026-11-26T00:25Z",
-    "source": "Pressnet",
-    "source_site": "https://www.pressnet.pt",
-    "feed": "https://www.pressnet.pt/feed/",
-    "read_at": "2026-11-26T02:30:03Z",
+    "title": "Entram pelo telhado de hipermercado em Viana e roubam quantidade “muito grande” de tabaco",
+    "url": "https://ominho.pt/entram-pelo-telhado-de-hipermercado-em-viana-e-roubam-quantidade-muito-grande-de-tabaco/",
+    "published": "2026-11-26T11:10Z",
+    "source": "O MINHO",
+    "source_site": "https://ominho.pt/",
+    "feed": "https://ominho.pt/feed/",
+    "read_at": "2026-11-26T11:13:15Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "Câmara de Lisboa rejeita travar a venda em hasta pública de dez terrenos municipais",
-    "url": "https://pressnet.pt/2026/11/26/camara-de-lisboa-rejeita-travar-a-venda-em-hasta-publica-de-dez-terrenos-municipais/",
-    "published": "2026-11-26T00:25Z",
-    "source": "Pressnet",
-    "source_site": "https://www.pressnet.pt",
-    "feed": "https://www.pressnet.pt/feed/",
-    "read_at": "2026-11-26T02:30:03Z",
+    "title": "Sete detidos em megaoperação da PJ contra o tráfico de armas no Minho",
+    "url": "https://ominho.pt/sete-detidos-em-megaoperacao-da-pj-contra-o-trafico-de-armas-no-minho/",
+    "published": "2026-11-26T10:40Z",
+    "source": "O MINHO",
+    "source_site": "https://ominho.pt/",
+    "feed": "https://ominho.pt/feed/",
+    "read_at": "2026-11-26T11:13:15Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "Instituto Amaro da Costa vai lançar prémio para universitários sobre a doutrina social da Igreja",
-    "url": "https://pressnet.pt/2026/11/26/instituto-amaro-da-costa-vai-lancar-premio-para-universitarios-sobre-a-doutrina-social-da-igreja/",
-    "published": "2026-11-26T00:25Z",
+    "title": "WhatsApp já permite agendar o envio de mensagens",
+    "url": "https://pressnet.pt/2026/11/26/whatsapp-ja-permite-agendar-o-envio-de-mensagens/",
+    "published": "2026-11-26T10:25Z",
     "source": "Pressnet",
     "source_site": "https://www.pressnet.pt",
     "feed": "https://www.pressnet.pt/feed/",
-    "read_at": "2026-11-26T02:30:03Z",
+    "read_at": "2026-11-26T11:13:18Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "Trabalhadores da higiene urbana de Lisboa em greve na quinta e sexta-feira",
-    "url": "https://pressnet.pt/2026/11/25/trabalhadores-da-higiene-urbana-de-lisboa-em-greve-na-quinta-e-sexta-feira/",
-    "published": "2026-11-25T23:25Z",
+    "title": "Magic Beans estima faturar 5 milhões este ano e investe um milhão em nova unidade de cibersegurança",
+    "url": "https://pressnet.pt/2026/11/26/magic-beans-estima-faturar-5-milhoes-este-ano-e-investe-um-milhao-em-nova-unidade-de-ciberseguranca/",
+    "published": "2026-11-26T10:25Z",
     "source": "Pressnet",
     "source_site": "https://www.pressnet.pt",
     "feed": "https://www.pressnet.pt/feed/",
-    "read_at": "2026-11-26T02:30:03Z",
+    "read_at": "2026-11-26T11:13:18Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Prisão preventiva para jovem suspeito do desaparecimento de menor em Vendas Novas",
-    "url": "https://pressnet.pt/2026/11/25/prisao-preventiva-para-jovem-suspeito-do-desaparecimento-de-menor-em-vendas-novas/",
-    "published": "2026-11-25T23:25Z",
+    "title": "ONU alerta que avanços da China e dos EUA na IA podem criar «abismo colossal»",
+    "url": "https://pressnet.pt/2026/11/26/onu-alerta-que-avancos-da-china-e-dos-eua-na-ia-podem-criar-abismo-colossal/",
+    "published": "2026-11-26T10:25Z",
     "source": "Pressnet",
     "source_site": "https://www.pressnet.pt",
     "feed": "https://www.pressnet.pt/feed/",
-    "read_at": "2026-11-26T02:30:03Z",
+    "read_at": "2026-11-26T11:13:18Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Venâncio Mondlane acusa Ministério Público de apresentar «provas falsas» em tribunal",
-    "url": "https://pressnet.pt/2026/11/25/venancio-mondlane-acusa-ministerio-publico-de-apresentar-provas-falsas-em-tribunal/",
-    "published": "2026-11-25T23:25Z",
+    "title": "Família de jornalista japonês detido na Rússia diz estar «mergulhada na dor»",
+    "url": "https://pressnet.pt/2026/11/26/familia-de-jornalista-japones-detido-na-russia-diz-estar-mergulhada-na-dor/",
+    "published": "2026-11-26T10:25Z",
     "source": "Pressnet",
     "source_site": "https://www.pressnet.pt",
     "feed": "https://www.pressnet.pt/feed/",
-    "read_at": "2026-11-26T02:30:03Z",
+    "read_at": "2026-11-26T11:13:18Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Ricardo Arroja candidata-se à liderança da Iniciativa Liberal",
+    "url": "https://pressnet.pt/2026/11/26/ricardo-arroja-candidata-se-a-lideranca-da-iniciativa-liberal/",
+    "published": "2026-11-26T10:25Z",
+    "source": "Pressnet",
+    "source_site": "https://www.pressnet.pt",
+    "feed": "https://www.pressnet.pt/feed/",
+    "read_at": "2026-11-26T11:13:18Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Contextile 2026 despede-se de Guimarães com três dias de Finissage",
+    "url": "https://pressnet.pt/2026/11/26/contextile-2026-despede-se-de-guimaraes-com-tres-dias-de-finissage/",
+    "published": "2026-11-26T10:25Z",
+    "source": "Pressnet",
+    "source_site": "https://www.pressnet.pt",
+    "feed": "https://www.pressnet.pt/feed/",
+    "read_at": "2026-11-26T11:13:18Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Barcelos e Guimarães são dos mais afetados pela crise no têxtil",
+    "url": "https://ominho.pt/barcelos-e-guimaraes-sao-dos-mais-afetados-pela-crise-no-textil/",
+    "published": "2026-11-26T10:20Z",
+    "source": "O MINHO",
+    "source_site": "https://ominho.pt/",
+    "feed": "https://ominho.pt/feed/",
+    "read_at": "2026-11-26T11:13:15Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Aldeia isolada na montanha em Vila Verde é invadida pela magia do Natal este fim de semana",
+    "url": "https://ominho.pt/aldeia-isolada-na-montanha-em-vila-verde-e-invadida-pela-magia-do-natal-este-fim-de-semana/",
+    "published": "2026-11-26T10:09Z",
+    "source": "O MINHO",
+    "source_site": "https://ominho.pt/",
+    "feed": "https://ominho.pt/feed/",
+    "read_at": "2026-11-26T11:13:15Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Banco Alimentar vai estar à porta dos supermercados este fim de semana",
+    "url": "https://cidadehoje.sapo.pt/banco-alimentar-vai-estar-a-porta-dos-supermercados-este-fim-de-semana/",
+    "published": "2026-11-26T10:03Z",
+    "source": "Cidade Hoje",
+    "source_site": "https://www.cidadehoje.pt/",
+    "feed": "https://cidadehoje.sapo.pt/feed/",
+    "read_at": "2026-11-26T11:13:13Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Taça Libertadores: Abel Ferreira procura ‘tri’ pessoal e ‘penta’ para treinadores lusos",
+    "url": "https://ominho.pt/taca-libertadores-abel-ferreira-procura-tri-pessoal-e-penta-para-treinadores-lusos/",
+    "published": "2026-11-26T10:03Z",
+    "source": "O MINHO",
+    "source_site": "https://ominho.pt/",
+    "feed": "https://ominho.pt/feed/",
+    "read_at": "2026-11-26T11:13:15Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "FC Famalicão já conhece o árbitro da partida com o Benfica",
+    "url": "https://cidadehoje.sapo.pt/fc-famalicao-ja-conhece-o-arbitro-da-partida-com-o-benfica/",
+    "published": "2026-11-26T09:42Z",
+    "source": "Cidade Hoje",
+    "source_site": "https://www.cidadehoje.pt/",
+    "feed": "https://cidadehoje.sapo.pt/feed/",
+    "read_at": "2026-11-26T11:13:13Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Ester Alves correu 200 quilómetros na Antártida: “A experiência de uma vida”",
+    "url": "https://ominho.pt/ester-alves-correu-200-quilometros-na-antartida-a-experiencia-de-uma-vida/",
+    "published": "2026-11-26T09:05Z",
+    "source": "O MINHO",
+    "source_site": "https://ominho.pt/",
+    "feed": "https://ominho.pt/feed/",
+    "read_at": "2026-11-26T11:13:15Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Famalicão: Incêndio faz estragos em moradia na freguesia de Calendário",
+    "url": "https://cidadehoje.sapo.pt/famalicao-incendio-faz-estragos-em-moradia-na-freguesia-de-calendario/",
+    "published": "2026-11-26T08:22Z",
+    "source": "Cidade Hoje",
+    "source_site": "https://www.cidadehoje.pt/",
+    "feed": "https://cidadehoje.sapo.pt/feed/",
+    "read_at": "2026-11-26T11:13:13Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
    },
    {
     "title": "Milhares de luzes transformam Famalicão num cenário encantado",
@@ -725,7 +824,7 @@
     "source": "Braga TV",
     "source_site": "https://bragatv.pt/",
     "feed": "https://bragatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:54Z",
+    "read_at": "2026-11-26T11:13:09Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -736,7 +835,7 @@
     "source": "Braga TV",
     "source_site": "https://bragatv.pt/",
     "feed": "https://bragatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:54Z",
+    "read_at": "2026-11-26T11:13:09Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -747,18 +846,7 @@
     "source": "Braga TV",
     "source_site": "https://bragatv.pt/",
     "feed": "https://bragatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:54Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "SC Braga vence Zeleznicar Lajkovac na Taça Challenge de voleibol feminino",
-    "url": "https://ominho.pt/sc-braga-vence-zeleznicar-lajkovac-na-taca-challenge-de-voleibol-feminino/",
-    "published": "2026-11-25T22:11Z",
-    "source": "O MINHO",
-    "source_site": "https://ominho.pt/",
-    "feed": "https://ominho.pt/feed/",
-    "read_at": "2026-11-26T02:29:59Z",
+    "read_at": "2026-11-26T11:13:09Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -769,7 +857,7 @@
     "source": "Braga TV",
     "source_site": "https://bragatv.pt/",
     "feed": "https://bragatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:54Z",
+    "read_at": "2026-11-26T11:13:09Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -780,7 +868,7 @@
     "source": "Braga TV",
     "source_site": "https://bragatv.pt/",
     "feed": "https://bragatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:54Z",
+    "read_at": "2026-11-26T11:13:09Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -791,18 +879,7 @@
     "source": "Braga TV",
     "source_site": "https://bragatv.pt/",
     "feed": "https://bragatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:54Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "João Mendes, do Vitória SC, vai ser operado a lesão no joelho",
-    "url": "https://ominho.pt/joao-mendes-do-vitoria-sc-vai-ser-operado-a-lesao-no-joelho/",
-    "published": "2026-11-25T21:43Z",
-    "source": "O MINHO",
-    "source_site": "https://ominho.pt/",
-    "feed": "https://ominho.pt/feed/",
-    "read_at": "2026-11-26T02:29:59Z",
+    "read_at": "2026-11-26T11:13:09Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -813,18 +890,7 @@
     "source": "Cidade Hoje",
     "source_site": "https://www.cidadehoje.pt/",
     "feed": "https://cidadehoje.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:58Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Montenegro recusa criar cabaz alimentar com IVA zero e aumentar impostos sobre rendas até 2.300 euros",
-    "url": "https://ominho.pt/montenegro-recusa-criar-cabaz-alimentar-com-iva-zero-e-aumentar-impostos-sobre-rendas-ate-2-300-euros/",
-    "published": "2026-11-25T21:20Z",
-    "source": "O MINHO",
-    "source_site": "https://ominho.pt/",
-    "feed": "https://ominho.pt/feed/",
-    "read_at": "2026-11-26T02:29:59Z",
+    "read_at": "2026-11-26T11:13:13Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -835,18 +901,7 @@
     "source": "Cidade Hoje",
     "source_site": "https://www.cidadehoje.pt/",
     "feed": "https://cidadehoje.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:58Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Caminha: Zeus caiu num tanque e foi salvo pelos bombeiros",
-    "url": "https://ominho.pt/caminha-zeus-caiu-num-tanque-e-foi-salvo-pelos-bombeiros/",
-    "published": "2026-11-25T20:47Z",
-    "source": "O MINHO",
-    "source_site": "https://ominho.pt/",
-    "feed": "https://ominho.pt/feed/",
-    "read_at": "2026-11-26T02:29:59Z",
+    "read_at": "2026-11-26T11:13:13Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -857,30 +912,8 @@
     "source": "RUM - Rádio Universitária do Minho",
     "source_site": "https://www.rum.pt/",
     "feed": "https://www.rum.pt/feed/",
-    "read_at": "2026-11-26T02:30:08Z",
+    "read_at": "2026-11-26T11:13:24Z",
     "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Seguro afirma que não se calará perante a violência doméstica",
-    "url": "https://ominho.pt/seguro-afirma-que-nao-se-calara-perante-a-violencia-domestica/",
-    "published": "2026-11-25T20:36Z",
-    "source": "O MINHO",
-    "source_site": "https://ominho.pt/",
-    "feed": "https://ominho.pt/feed/",
-    "read_at": "2026-11-26T02:29:59Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Curso de Música da UMinho celebra 20 anos com concerto na Sé de Braga",
-    "url": "https://ominho.pt/curso-de-musica-da-uminho-celebra-20-anos-com-concerto-na-se-de-braga/",
-    "published": "2026-11-25T20:31Z",
-    "source": "O MINHO",
-    "source_site": "https://ominho.pt/",
-    "feed": "https://ominho.pt/feed/",
-    "read_at": "2026-11-26T02:29:59Z",
-    "mentions_place": true,
     "date": "2026-11-25"
    },
    {
@@ -890,7 +923,7 @@
     "source": "RUM - Rádio Universitária do Minho",
     "source_site": "https://www.rum.pt/",
     "feed": "https://www.rum.pt/feed/",
-    "read_at": "2026-11-26T02:30:08Z",
+    "read_at": "2026-11-26T11:13:24Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -901,7 +934,7 @@
     "source": "RUM - Rádio Universitária do Minho",
     "source_site": "https://www.rum.pt/",
     "feed": "https://www.rum.pt/feed/",
-    "read_at": "2026-11-26T02:30:08Z",
+    "read_at": "2026-11-26T11:13:24Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -912,40 +945,7 @@
     "source": "Cidade Hoje",
     "source_site": "https://www.cidadehoje.pt/",
     "feed": "https://cidadehoje.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:58Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Famalicão: Agressão em Pousada de Saramagos faz um ferido",
-    "url": "https://cidadehoje.sapo.pt/famalicao-agressao-em-pousada-de-saramagos-faz-um-ferido/",
-    "published": "2026-11-25T17:56Z",
-    "source": "Cidade Hoje",
-    "source_site": "https://www.cidadehoje.pt/",
-    "feed": "https://cidadehoje.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:58Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Famalicão: Ameaçou com arma de fogo e foi apanhado pela GNR de Riba de Ave",
-    "url": "https://cidadehoje.sapo.pt/famalicao-amecou-com-arma-de-fogo-e-foi-apanhado-pela-gnr-de-riba-de-ave/",
-    "published": "2026-11-25T17:36Z",
-    "source": "Cidade Hoje",
-    "source_site": "https://www.cidadehoje.pt/",
-    "feed": "https://cidadehoje.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:58Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Famalicão goleia Gil Vicente na Liga Next Gen",
-    "url": "https://cidadehoje.sapo.pt/famalicao-goleia-gil-vicente-na-liga-next-gen/",
-    "published": "2026-11-25T17:11Z",
-    "source": "Cidade Hoje",
-    "source_site": "https://www.cidadehoje.pt/",
-    "feed": "https://cidadehoje.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:58Z",
+    "read_at": "2026-11-26T11:13:13Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -956,7 +956,7 @@
     "source": "RUM - Rádio Universitária do Minho",
     "source_site": "https://www.rum.pt/",
     "feed": "https://www.rum.pt/feed/",
-    "read_at": "2026-11-26T02:30:08Z",
+    "read_at": "2026-11-26T11:13:24Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -967,7 +967,7 @@
     "source": "RUM - Rádio Universitária do Minho",
     "source_site": "https://www.rum.pt/",
     "feed": "https://www.rum.pt/feed/",
-    "read_at": "2026-11-26T02:30:08Z",
+    "read_at": "2026-11-26T11:13:24Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -978,7 +978,7 @@
     "source": "Mega Hits Braga",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:30:05Z",
+    "read_at": "2026-11-26T11:13:21Z",
     "mentions_place": false,
     "date": "2026-11-25"
    }
